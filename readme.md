@@ -33,53 +33,53 @@ This lab introduces Python programming and machine learning basics. The programs
 
 ## Programs
 
-### 1. [Introduction to Python Programming](path/to/introduction_to_python_programming.py)
+### 1. Introduction to Python Programming
 Basic Python programming exercises to refresh and strengthen foundational skills.
 
-### 2. [Familiarization of Basic Python Libraries](path/to/familiarize_python_libraries.py)
+### 2. Familiarization of Basic Python Libraries
 Exploring essential libraries for machine learning, including:
 - **Sklearn**: Used for implementing machine learning algorithms.
 - **Numpy**: Used for numerical operations.
 - **Pandas**: Used for data manipulation.
 - **Matplotlib**: Used for data visualization.
 
-### 3. [Union and Intersection of Two Lists](path/to/union_intersection.py)
+### 3. Union and Intersection of Two Lists
 A Python program to find the union and intersection of two lists, demonstrating set operations and list manipulation.
 
-### 4. [Word Count in a Sentence](path/to/word_count.py)
+### 4. Word Count in a Sentence
 Counts the occurrences of each word in a given sentence to understand basic text processing techniques.
 
-### 5. [Matrix Multiplication](path/to/matrix_multiplication.py)
+### 5. Matrix Multiplication
 Implements matrix multiplication using nested loops, a fundamental concept for linear algebra operations in machine learning.
 
-### 6. [Most Frequent Words in a Text File](path/to/frequent_words.py)
+### 6. Most Frequent Words in a Text File
 Reads a text file and identifies the most frequent words, an essential skill in text processing and data cleaning.
 
-### 7. [Regression Analysis](path/to/regression_analysis.py)
+### 7. Regression Analysis]
 Performs Single, Multivariable, and Polynomial Regression using training data from a CSV file. Evaluates the accuracy of each regression model.
 
-### 8. [Logistic Regression](path/to/logistic_regression.py)
+### 8. Logistic Regression
 A Python program to implement logistic regression on a dataset, useful for binary classification problems.
 
-### 9. [Naive Bayes Classifier](path/to/naive_bayes.py)
+### 9. Naive Bayes Classifier
 Implements the Naive Bayes classification algorithm and calculates accuracy, precision, and recall to evaluate model performance.
 
-### 10. [Decision Tree with ID3 Algorithm](path/to/decision_tree_id3.py)
+### 10. Decision Tree with ID3 Algorithm
 Demonstrates the ID3 algorithm using a dataset, builds a decision tree, and applies it to classify new samples.
 
-### 11. [Support Vector Machine (SVM) Classifier](path/to/svm_classifier.py)
+### 11. Support Vector Machine (SVM) Classifier
 Applies an SVM classifier to a dataset and evaluates the classification accuracy, a common approach for high-dimensional data.
 
-### 12. [K-Nearest Neighbor (KNN) Algorithm](path/to/knn.py)
+### 12. K-Nearest Neighbor (KNN) Algorithm
 Implements the K-Nearest Neighbor algorithm to classify data points based on proximity to labeled points in the dataset.
 
-### 13. [K-Means Clustering](path/to/k_means_clustering.py)
+### 13. K-Means Clustering
 Applies K-Means clustering to group data points into clusters, showcasing unsupervised learning on unlabeled data.
 
-### 14. [Artificial Neural Network (ANN) using Backpropagation](path/to/ann_backpropagation.py)
+### 14. Artificial Neural Network (ANN) using Backpropagation
 Builds an artificial neural network and trains it using the backpropagation algorithm. Tests the model on a dataset to evaluate its predictive power.
 
-### 15. [Principal Component Analysis (PCA)](path/to/pca.py)
+### 15. Principal Component Analysis (PCA)
 Implements PCA for dimensionality reduction, a crucial step in preprocessing large datasets to reduce computational complexity.
 
 ## Summary
@@ -92,6 +92,15 @@ These programs provide a solid foundation in machine learning using Python. By u
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
 
-Install dependencies using:
+## Usage
+To use this repository, clone it to your local machine using the following command:
+
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/venkideshVenu/S5-KTU-Python-and-Machine-Learining-Lab.git
+```
+
+## Contribution
+Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
