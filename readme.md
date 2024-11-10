@@ -118,8 +118,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
-
-
-Visitors Counts : ![Visitor Count](https://profile-counter.glitch.me/venkideshVenu/count.svg)
